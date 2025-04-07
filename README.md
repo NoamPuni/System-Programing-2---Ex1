@@ -157,9 +157,9 @@ Tests cover:
 - Valgrind recommended for memory leak checks.
 
 ## References
-- AI-assisted planning and structure (e.g., project structure visualization).
+- AI-assisted planning and structure (e.g., project structure visualization, did not totally follow the suggestions).
 - AI-based clarification regarding `.hpp` vs `.h`.
 - AI-assisted README drafting.
-- Summuries and Slides from:
+- Summaries and Slides from:
   - **Data Structures** – Prof. Liad Gottlieb
   - **Algorithms 1** – Dr. Gabriel Nivasch
